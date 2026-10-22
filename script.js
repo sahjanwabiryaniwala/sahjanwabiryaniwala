@@ -1,5 +1,5 @@
 /* Central configuration: update these values before publishing. */
-const WHATSAPP_NUMBER = "8081531642"; // International format: digits only, no +, spaces, or hyphens.
+const WHATSAPP_NUMBER = "918081531642"; // International format: digits only, no +, spaces, or hyphens.
 const SHOP_NAME = "Sahjanwa Biriyani Wala";
 const SHOP_ADDRESS = "Near HDFC Bank Sahjanwa Main Road, Sahjanwa, Gorakhpur";
 const GOOGLE_MAPS_DIRECTIONS_URL = "https://maps.app.goo.gl/ZkMgerM3EbvKhETSA";
